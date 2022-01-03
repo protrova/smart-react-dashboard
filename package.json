@@ -34,5 +34,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protrova/smart-react-dashboard.git"
+  },
+  "keywords": [
+    "react-dashboard",
+    "bootstrap-dashboard"
+  ],
+  "author": "Vangala Bharath Kumar Reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protrova/smart-react-dashboard/issues"
+  },
+  "homepage": "https://github.com/protrova/smart-react-dashboard#readme"
 }
